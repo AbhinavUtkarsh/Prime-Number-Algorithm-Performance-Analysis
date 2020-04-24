@@ -71,6 +71,7 @@ graph and makes the complexity more visually apparent.
 
 Bellow are the graph of input size vs time in seconds of each of the
 5 algorithms.
+
 ![](https://abhinavutkarsh728.s3.amazonaws.com/Screenshot+2020-04-24+at+10.48.15+PM.png)
 ![](https://abhinavutkarsh728.s3.amazonaws.com/Screenshot+2020-04-24+at+10.48.24+PM.png)
 ![](https://abhinavutkarsh728.s3.amazonaws.com/Screenshot+2020-04-24+at+10.48.40+PM.png)
@@ -80,7 +81,7 @@ Bellow are the graph of input size vs time in seconds of each of the
 - [Macbook Pro 2017 13“ Base Model](https://www.techradar.com/in/reviews/macbook-pro-with-touch-bar-13-inch-mid-2017)
 - CPU clock 2.3 GHz
 - RAM: 8GB (2,133MHz LPDDR3)
-- Python Via Jupyter Notebook
+- Python via Jupyter Notebook
 - Time calculated via time library
 
 #### Future Improvement:
