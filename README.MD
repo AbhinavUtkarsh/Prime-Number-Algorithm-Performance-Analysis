@@ -72,9 +72,15 @@ graph and makes the complexity more visually apparent.
 Bellow are the graph of input size vs time in seconds of each of the
 5 algorithms.
 
-![](https://abhinavutkarsh728.s3.amazonaws.com/Screenshot+2020-04-24+at+10.48.15+PM.png)
-![](https://abhinavutkarsh728.s3.amazonaws.com/Screenshot+2020-04-24+at+10.48.24+PM.png)
-![](https://abhinavutkarsh728.s3.amazonaws.com/Screenshot+2020-04-24+at+10.48.40+PM.png)
+<p align="center">
+<img src="https://abhinavutkarsh728.s3.amazonaws.com/Screenshot+2020-04-24+at+10.48.15+PM.png" width="400">
+</p>
+<p align="center">
+<img src="https://abhinavutkarsh728.s3.amazonaws.com/Screenshot+2020-04-24+at+10.48.24+PM.png" width="400">
+</p>
+<p align="center">
+<img src="https://abhinavutkarsh728.s3.amazonaws.com/Screenshot+2020-04-24+at+10.48.40+PM.png" width="400">
+</p>
 
 ### Tested on:
 
